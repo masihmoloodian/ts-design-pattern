@@ -1,0 +1,12 @@
+{
+  "name": "ts-design-patterns",
+  "version": "1.0.0",
+  "author": "Masih Moloodian",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "npx tsc"
+  }
+}
